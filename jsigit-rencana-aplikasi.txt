@@ -3,3 +3,4 @@ Rencana Aplikasi JSigit
   * Akuntansi Web
 - Penjualan
 - Game
+- Aplikasi Android
