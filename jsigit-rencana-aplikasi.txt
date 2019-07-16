@@ -4,4 +4,6 @@ Rencana Aplikasi JSigit
 - Game
 - Aplikasi Android
  * Kalkulator
- * Jam
+ Coba-Fitur-2
+  * Kamera
+  - master
