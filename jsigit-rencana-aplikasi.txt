@@ -4,3 +4,4 @@ Rencana Aplikasi JSigit
 - Penjualan
 - Game
 - Aplikasi Android
+ * Kalkulator
