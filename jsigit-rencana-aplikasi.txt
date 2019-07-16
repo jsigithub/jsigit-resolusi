@@ -1,0 +1,4 @@
+Rencana Aplikasi JSigit
+- Keuangan online
+- Penjualan
+- Game
