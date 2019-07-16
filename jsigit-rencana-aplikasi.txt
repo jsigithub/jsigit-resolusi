@@ -1,8 +1,9 @@
 Rencana Aplikasi JSigit
 - Keuangan online
   * Akuntansi Web
-- Penjualan
 - Game
 - Aplikasi Android
  * Kalkulator
+ Coba-Fitur-2
   * Kamera
+  - master
