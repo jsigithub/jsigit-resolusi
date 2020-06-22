@@ -1,3 +1,0 @@
-JSigit Resolusi
-- Konsisten untuk belajar pemrograman 2x seminggu
-- Membuat Aplikasi Web
